@@ -40,8 +40,8 @@ GRANT ALL PRIVILEGES ON laravel . * TO 'seu_usuario'@'localhost';
 ```
 git clone git@github.com:ViniciusPolo/clinicacrud.git
 ```
-
-- Configurar o arquivo .env com as suas informações do banco de dados:
+# Importante
+- Copiar o arquivo .env.example e criar o arquivo .env com as suas informações do banco de dados:
 
 ```
 DB_CONNECTION=mysql
