@@ -1,4 +1,4 @@
-# Laravel Boilerplate
+# Clinica Crud
 
 ## Versões
 
@@ -38,7 +38,7 @@ GRANT ALL PRIVILEGES ON laravel . * TO 'seu_usuario'@'localhost';
 - Clone o projeto para sua máquina (coloque na pasta do seu servidor WEB):
 
 ```
-git clone https://github.com/eduardoplnascimento/laravel-boilerplate.git
+git clone git@github.com:ViniciusPolo/clinicacrud.git
 ```
 
 - Configurar o arquivo .env com as suas informações do banco de dados:
