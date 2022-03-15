@@ -99,4 +99,3 @@ Para primeiro acesso deve-se clicar em Registrar, e informar os dados do novo m√
 ![](imagesreadme/visualizacao.png)
 
 
-![](https://i.imgur.com/GQRXUXw.png)
